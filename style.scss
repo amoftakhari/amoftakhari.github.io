@@ -20,16 +20,11 @@ html {
 body {
     background: $white;
     font: 16px/1.4 $roboto;
-    color: $darkGray;
+    color: $black;
     // font-weight: lighter;
 }
 
-.container {
-  margin: 0 auto;
-  max-width: 940px;  //max-width: 740px;
-  padding: 0 10px;
-  width: 100%;
-}
+
 
 h1, h2, h3, h4, h5, h6 {
     font-family: $openSans;
