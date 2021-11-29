@@ -152,7 +152,7 @@ img {
 //
 
 .wrapper-masthead {
-  margin-bottom: 50px;
+  margin-bottom: 20px;
 }
 
 .masthead {
@@ -166,9 +166,9 @@ img {
 
 .site-avatar {
   float: right;
-  width: 830px;
-  height: 830px;
-  margin-right: 150px;
+  width: 83px;
+  height: 83px;
+  margin-right: 15px;
 
   @include mobile {
     float: none;
@@ -193,11 +193,11 @@ img {
 
 .site-name {
     margin: 0;
-    color: $darkGray;
+    color: $black;
     cursor: pointer;
     font-family: $openSans;
-    font-weight: 300;
-    font-size: 28px;
+    font-weight: 500;
+    font-size: 44px;
     letter-spacing: 1px;
 }
 
