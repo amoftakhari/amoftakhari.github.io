@@ -48,8 +48,11 @@ Grid-interactive Efficient District (GED) Energy Systems](https://www.colorado.e
 10.2018 – 07.2019: [Enhancement In The Cooling Capacity and Control of Sanken Radiant Systems With Ceiling Fans](https://cbe.berkeley.edu/centerline/engineering-leader-sanken-to-collaborate-on-radiant-cooling-technologies/) (With CBE and Sanken Setsubi Kogyo)<br />
 05.2018 - 09.2018: ASHRAE GIA - [Improvement in the Operative Temperature Controller of Radiant Cooling Panels](https://www.ashrae.org/file%20library/technical%20resources/research/ashrae%20rp/rpbyregion-a20.v1.xls) <br />
 09.2016 – 01.2019: ASHRAE- [Experimental Verification of Cooling Load Calculations for Spaces with Non-Uniform Temperature Radiant Surfaces](http://research.ashrae.org/html/) <br />
-09.2013 – 12.2015: Building System Design Parameter Estimation Using Inverse Analysis Technique<br />
-10.2012 – 09.2013: Optimal Building Energy Simulation Using Stochastic Optimization Methods <br />
-08.2011 – 01.2012: Numerical modeling of HVAC system design in Hospitals <br />
+10.2012 – 12.2015:  Optimal Building System Design Parameter Estimation Using Inverse Analysis Technique and Stochastic Optimization Methods<br />
+08.2011 – 01.2012: Numerical Modeling of HVAC and District Energy Systems Design in Hospitals <br />
 
+## LABORATORY EXPERIENCE
+01.2019 – 01.2021: [UT Roof Testing Laboratory Construction and Development](https://www.caee.utexas.edu/prof/Novoselac/atila_files/Laboratories.html#UTest%20House) 
+01.2017 – 10.2018: [UT Thermal Façade Lab Development, Installation and Equipment](https://soa.utexas.edu/resources/thermal-lab)
+    
 
