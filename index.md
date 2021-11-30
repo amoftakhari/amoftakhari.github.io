@@ -45,10 +45,11 @@ Engineering for Sustainability In The Built Environment <br />
 10.2020 – Present: DOE - [Optimal Co-Design of Integrated Thermal-Electrical Networks and Control Systems for 
 Grid-interactive Efficient District (GED) Energy Systems](https://www.colorado.edu/lab/sbs/grid-interactive-efficient-district-energy-system) (With LBNL, NREL, CU Boulder, RPI and  Amzur Technologies) <br />
 09.2019 – 03.2021: NSF - [SBIR Phase II: Passive Radiative Composite Material](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1831805&HistoricalAwards=false) (With PC Krause and Associates Inc.)<br />
-10.2018 – 07.2019: [Enhancement In The Cooling Capacity and Control of Sanken Radiant Systems With Ceiling Fans] (https://cbe.berkeley.edu/centerline/engineering-leader-sanken-to-collaborate-on-radiant-cooling-technologies/) (With CBE and Sanken Setsubi Kogyo)<br />
+10.2018 – 07.2019: [Enhancement In The Cooling Capacity and Control of Sanken Radiant Systems With Ceiling Fans](https://cbe.berkeley.edu/centerline/engineering-leader-sanken-to-collaborate-on-radiant-cooling-technologies/) (With CBE and Sanken Setsubi Kogyo)<br />
 05.2018 - 09.2018: ASHRAE GIA - [Improvement in the Operative Temperature Controller of Radiant Cooling Panels](https://www.ashrae.org/file%20library/technical%20resources/research/ashrae%20rp/rpbyregion-a20.v1.xls) <br />
 09.2016 – 01.2019: ASHRAE- [Experimental Verification of Cooling Load Calculations for Spaces with Non-Uniform Temperature Radiant Surfaces](http://research.ashrae.org/html/) <br />
-09.2013 – 12.2015: [Building System Design Parameter Estimation Using Inverse Analysis Technique]<br />
-10.2012 – 09.2013: [Optimal Building Energy Simulation Using Stochastic Optimization Methods] <br />
+09.2013 – 12.2015: Building System Design Parameter Estimation Using Inverse Analysis Technique<br />
+10.2012 – 09.2013: Optimal Building Energy Simulation Using Stochastic Optimization Methods <br />
+08.2011 – 01.2012: Numerical modeling of HVAC system design in Hospitals <br />
 
 
