@@ -26,11 +26,11 @@ PhD Student <br />
 2012		BSc Mechanical Engineering, Islamic Azad University, Tehran, Iran<br />
 
 ## RESEARCH INTERESTS
-Building Energy Analysis <br />
+Building Energy Analysis and Management<br />
 Thermal Systems Simulation and Design <br />
-Building-To-Grid Interactive District Energy Systems <br />
-Building Environmental Control and Sensing Systems <br />
 Ventilation and Indoor Air Quality <br />
+Building Environmental Control and Sensing Systems <br />
+Building-To-Grid Interactive District Energy Systems <br />
 Smart and Connected Communities<br />
 Engineering for Sustainability In The Built Environment <br />
 
@@ -39,7 +39,7 @@ Engineering for Sustainability In The Built Environment <br />
 2017 - 2022 Graduate Research Assistant, University of Texas at Austin, TX <br />
 2013 - 2016     Graduate Research Assistant, K. N. Toosi University of Technology, Iran <br />
 2011 - 2012     Undergraduate Research Assistant, K. N. Toosi University of Technology, Iran <br />
-2008 - 2011     Industry Work Experience on Design, Installation and Restoration of HVAC Systems for Multi-Family Residential/Commercial Buildings <br />
+2008 - 2011     Industry Work Experience on Design and Restoration of HVAC Systems for Residential/Commercial Buildings <br />
 
 ## RESEARCH WORK EXPERIENCE
 10.2020 – Present: DOE - [Optimal Co-Design of Integrated Thermal-Electrical Networks and Control Systems for 
