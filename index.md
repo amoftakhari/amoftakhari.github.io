@@ -16,7 +16,7 @@ PhD Student <br />
   University of Texas at Austin <br />
   301E E Dean Keeton St c1700, Austin, TX 78712-1076 <br />
   <br />
-***Email:*** ardeshir(dot)moftakhari(at)utexas(dot)edu
+**Email:** ardeshir.moftakhari@utexas.edu
 <br/>
-[***Curriculum Vitae***](Ardi_CV.pdf) 
+[**Curriculum Vitae**](Ardi_CV.pdf) 
 
