@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Test house
+title: Test house 
 categories:
  - home
 ---
