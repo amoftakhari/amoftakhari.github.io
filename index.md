@@ -8,7 +8,7 @@ categories:
 	title="Ardeshir Moftakhari" width="200" style="float: right;" />
 	
 	
-## Ardeshir Moftakhari
+## ARDESHIR MOFTAKHARI
 PhD Student <br />
   <br />
   Center for Energy & Environmental Resources (CEER) <br />
@@ -31,17 +31,24 @@ Thermal Systems Simulation and Design <br />
 Building-To-Grid Interactive District Energy Systems <br />
 Building Environmental Control and Sensing Systems <br />
 Ventilation and Indoor Air Quality <br />
-Smart and connected communities<br />
-Engineering for sustainability in the built environment <br />
+Smart and Connected Communities<br />
+Engineering for Sustainability In The Built Environment <br />
 
 ## WORK EXPERIENCE
 
-2017 - 2022     Graduate Research Assistant, University of Texas, Austin, TX <br />
-2013 - 2016     Graduate Research Assistant, K. N. Toosi University of Technology, Tehran, Iran <br />
-2011 - 2012     Undergraduate Research Assistant, K. N. Toosi University of Technology, Tehran, Iran <br />
-2008 - 2012     Industry Work Experience on design, installation and restoration of HVAC systems for Residential/Commercial Buildings <br />
+2017 - 2022 Graduate Research Assistant, University of Texas at Austin, TX <br />
+2013 - 2016     Graduate Research Assistant, K. N. Toosi University of Technology, Iran <br />
+2011 - 2012     Undergraduate Research Assistant, K. N. Toosi University of Technology, Iran <br />
+2008 - 2011     Industry Work Experience on Design, Installation and Restoration of HVAC Systems for Multi-Family Residential/Commercial Buildings <br />
 
 ## RESEARCH WORK EXPERIENCE
-2022 		PhD Civil Engineering, University of Texas, Austin <br />
-2016        MSc Mechanical Engineering, K. N. Toosi University of Technology, Iran<br />
-2012		BSc Mechanical Engineering, Islamic Azad University, Iran<br />
+10.2020 – Present: DOE - [Optimal Co-Design of Integrated Thermal-Electrical Networks and Control Systems for 
+Grid-interactive Efficient District (GED) Energy Systems](https://www.colorado.edu/lab/sbs/grid-interactive-efficient-district-energy-system) (With LBNL, NREL, CU Boulder, RPI and  Amzur Technologies) <br />
+09.2019 – 03.2021: NSF - [SBIR Phase II: Passive Radiative Composite Material](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1831805&HistoricalAwards=false) (With PC Krause and Associates Inc.)<br />
+10.2018 – 07.2019: [Enhancement In The Cooling Capacity and Control of Sanken Radiant Systems With Ceiling Fans] (https://cbe.berkeley.edu/centerline/engineering-leader-sanken-to-collaborate-on-radiant-cooling-technologies/) (With CBE and Sanken Setsubi Kogyo)<br />
+05.2018 - 09.2018: ASHRAE GIA - [Improvement in the Operative Temperature Controller of Radiant Cooling Panels](https://www.ashrae.org/file%20library/technical%20resources/research/ashrae%20rp/rpbyregion-a20.v1.xls) <br />
+09.2016 – 01.2019: ASHRAE- [Experimental Verification of Cooling Load Calculations for Spaces with Non-Uniform Temperature Radiant Surfaces](http://research.ashrae.org/html/) <br />
+09.2013 – 12.2015: [Building System Design Parameter Estimation Using Inverse Analysis Technique]<br />
+10.2012 – 09.2013: [Optimal Building Energy Simulation Using Stochastic Optimization Methods] <br />
+
+
