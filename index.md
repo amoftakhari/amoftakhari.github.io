@@ -5,7 +5,7 @@ categories:
  - home
 ---
 <img src="{{ site.baseurl }}/images/profile.jpg" alt="profile"
-	title="Ardeshir Moftakhari" width="200" style="float: right;" />
+	title="Ardeshir Moftakhari" width="100" style="float: right;" />
 	
 	
 ## ARDESHIR MOFTAKHARI
@@ -16,14 +16,14 @@ PhD Student <br />
   University of Texas at Austin <br />
   301E E Dean Keeton St c1700, Austin, TX 78712-1076 <br />
   <br />
-**Email:** ardeshir.moftakhari@utexas.edu
+**Email:** <ardeshir.moftakhari@utexas.edu>
 <br/>
 [**Curriculum Vitae**](Ardi_CV.pdf) 
 
 ## EDUCATION
-2022 <··\n>		PhD Civil Engineering, University of Texas, Austin, TX <br />
-2016        MSc Mechanical Engineering, K. N. Toosi University of Technology, Tehran, Iran<br />
-2012		BSc Mechanical Engineering, Islamic Azad University, Tehran, Iran<br />
+2022: PhD Civil Engineering, University of Texas, Austin, TX <br />
+2016: MSc Mechanical Engineering, K. N. Toosi University of Technology, Tehran, Iran<br />
+2012: BSc Mechanical Engineering, Islamic Azad University, Tehran, Iran<br />
 
 ## RESEARCH INTERESTS
 Building Energy Analysis and Management<br />
