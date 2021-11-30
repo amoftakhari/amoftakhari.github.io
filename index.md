@@ -1,9 +1,4 @@
----
-layout: default
-title: Ardeshir Moftakhari  
-categories:
- - home
----
+
 <img src="{{ site.baseurl }}/images/profile.jpg" alt="profile"
 	title="Ardeshir Moftakhari" width="200" style="float: right;" />
 	
