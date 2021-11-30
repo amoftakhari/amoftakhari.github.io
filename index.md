@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: wrapper
 title: Ardeshir Moftakhari
 categories:
  - home
