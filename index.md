@@ -21,6 +21,6 @@ PhD Student <br />
 [**Curriculum Vitae**](Ardi_CV.pdf) 
 
 ## EDUCATION
-2022 || PhD Civil Engineering, University of Texas, Austin <br />
+2022 | PhD Civil Engineering, University of Texas, Austin <br />
 2016        MSc Mechanical Engineering, K. N. Toosi University of Technology, Iran<br />
 2012		BSc Mechanical Engineering, Islamic Azad University, Iran<br />
