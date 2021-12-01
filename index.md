@@ -56,10 +56,6 @@ Grid-interactive Efficient District (GED) Energy Systems](https://www.colorado.e
 01.2019 – 01.2021: [UT Roof Testing Laboratory Construction and Development](https://www.caee.utexas.edu/prof/Novoselac/atila_files/Laboratories.html#UTest%20House) <br />
 01.2017 – 10.2018: [UT Thermal Façade Lab Development, Installation and Equipment](https://soa.utexas.edu/resources/thermal-lab) <br />
  
-# PUBLICATIONS
-Links: <br />
-<img src="{{ site.footer-links }}/images/googlescholar1.jpg" alt="profile"
-	title="Ardeshir Moftakhari" width="250" style="float: right;" />
 
  
 <br />
