@@ -23,8 +23,8 @@ comments-links:
 # Includes an icon in the footer for each username you enter
 footer-links:
   email:
-  researchgate: Ardeshir-Moftakhari  # Your profile name that comes after researchgate.net/profile/
-  googlescholar: citations?hl=en&user=cKTPpQYAAAAJ # anything in your profile username that comes after scholar.google.ca/ 
+ # researchgate: Ardeshir-Moftakhari  # Your profile name that comes after researchgate.net/profile/
+  #googlescholar: citations?hl=en&user=cKTPpQYAAAAJ # anything in your profile username that comes after scholar.google.ca/ 
   github: 
   instagram:
   linkedin: 
