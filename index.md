@@ -57,4 +57,4 @@ Grid-interactive Efficient District (GED) Energy Systems](https://www.colorado.e
 01.2017 – 10.2018: [UT Thermal Façade Lab Development, Installation and Equipment](https://soa.utexas.edu/resources/thermal-lab) <br />
     
 <br />
-* Website Design Source: MIT License, [jekyll-now](https://github.com/barryclark/jekyll-now),[GitHub](https://github.com/khinkelman/khinkelman.github.io)
+* Website Design Source: MIT License, [jekyll-now](https://github.com/barryclark/jekyll-now),[GitHub page](https://github.com/khinkelman/khinkelman.github.io)
