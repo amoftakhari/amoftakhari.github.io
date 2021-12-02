@@ -1,9 +1,3 @@
----
-layout: page
-title: publications
-permalink: /publications/
----
-
 
 ## PUBLICATIONS
 #### Peer-Reviewed Journal Publications
