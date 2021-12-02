@@ -1,4 +1,4 @@
-#### Peer-Reviewed Journal Publications
+### Peer-Reviewed Journal Publications
 **Moftakhari, A.**, Novoselac, A. (2020). 
 [Improvement in the Operative Temperature Measurement of Radiant Cooling Panels](https://www.proquest.com/docview/2489355622?pq-origsite=gscholar&fromopenview=true), 
 *ASHRAE Transactions*, Vol. 126 (2), pp. 419-426.
@@ -34,7 +34,7 @@ genetic optimization algorithm](https://doi.org/10.1007/s12206-016-0248-9), *Jou
 heating buildings in different climates of Iran, *Indian Journal of Natural Science (IJONS)*, Vol. 31, pp. 8615-8633.
 
 
-#### Peer-Reviewed Conference Publications
+### Peer-Reviewed Conference Publications
 **Moftakhari, A.**, Novoselac, A. (2020). [Experimental Study on Cooling Loads of Radiant and All-Air Systems](https://ashraem.confex.com/ashraem/s20/meetingapp.cgi/Session/30156)
 , *ASHRAE Virtual Conference*.
 
@@ -59,7 +59,7 @@ generic algorithm, *The 6th International Conference on Heating, Ventilation, Ai
 algorithm, *The 7th Conference on efficient, clean and Renewable Energy*, Tehran, Iran.
 
 
-#### Papers In Prepration/ Under Review
+### Papers In Prepration/ Under Review
 **Moftakhari, A.**, Bourne, S., Novoselac, A. Cooling Load Comparison of Rooms Conditioned with Radiant Cooling Panels and 
 All-Air HVAC Systems, for *Science and Technology for the Built Environment*.
 
@@ -82,7 +82,7 @@ Du, J., **Moftakhari, A.**, Novoselac, A. Heat Transfer Dynamics of Rooms with R
 for *Building Simulation*.
 
 
-#### Technical Reports 
+### Technical Reports 
 Heltzel, A., **Moftakhari, A.**, Novoselac, A. (2021), SBIR Phase II: Passive Radiative Composite Material: National Science Foundation Project No. 1831805. PC Krause and Associates, Inc. (PCKA).
 
 **Moftakhari, A.**, Bourne, S., Novoselac, A. (2020), Experiment Verification of Cooling Load Calculations for Spaces with Non-Uniform Temperature Radiant Surface: ASHRAE 1729-TRP Project (No. 1729- TRP). Austin, TX: University of Texas at Austin.
