@@ -58,5 +58,11 @@ Grid-interactive Efficient District (GED) Energy Systems](https://www.colorado.e
 
 ## PUBLICATIONS 
 See list of [publications](pub.md) here.
-<br />
+
+
+
+
+
+
+<br /><br />
 * Website Design Source: MIT License, [jekyll-now](https://github.com/barryclark/jekyll-now),[GitHub page](https://github.com/khinkelman/khinkelman.github.io)
