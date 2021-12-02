@@ -1,4 +1,4 @@
-##PUBLICATIONS
+###PUBLICATIONS
 
 #### Peer-Reviewed Journal Publications
 **Moftakhari, A.**, Novoselac, A. (2020). 
@@ -35,6 +35,7 @@ genetic optimization algorithm](https://doi.org/10.1007/s12206-016-0248-9), *Jou
 **Moftakhari, A.**, Aghanajafi, C., Moftakhari Chaei Ghazvin, A. (2015). A Comparative study of HVAC and Radiant systems for 
 heating buildings in different climates of Iran, *Indian Journal of Natural Science (IJONS)*, Vol. 31, pp. 8615-8633.
 
+<br />
 #### Peer-Reviewed Conference Publications
 **Moftakhari, A.**, Novoselac, A. (2020). [Experimental Study on Cooling Loads of Radiant and All-Air Systems](https://ashraem.confex.com/ashraem/s20/meetingapp.cgi/Session/30156)
 , *ASHRAE Virtual Conference*.
@@ -59,7 +60,8 @@ generic algorithm, *The 6th International Conference on Heating, Ventilation, Ai
 **Moftakhari, A.**, Moftakhari chaei ghazvin, A. (2015). Estimation of Building energy consumption using PSO optimization 
 algorithm, *The 7th Conference on efficient, clean and Renewable Energy*, Tehran, Iran.
 
-### Papers In Prepration/ Under Review
+<br/>
+#### Papers In Prepration/ Under Review
 **Moftakhari, A.**, Bourne, S., Novoselac, A. Cooling Load Comparison of Rooms Conditioned with Radiant Cooling Panels and 
 All-Air HVAC Systems, for *Science and Technology for the Built Environment*.
 
@@ -81,25 +83,21 @@ for *Journal of Building Performance Simulation*.
 Du, J., **Moftakhari, A.**, Novoselac, A. Heat Transfer Dynamics of Rooms with Radiant Floor and Ceiling Cooling Systems, 
 for *Building Simulation*.
 
-
+<br />
 #### Technical Reports 
 Heltzel, A., **Moftakhari, A.**, Novoselac, A. (2021), SBIR Phase II: Passive Radiative Composite Material: National Science Foundation Project No. 1831805. PC Krause and Associates, Inc. (PCKA).
 
 **Moftakhari, A.**, Bourne, S., Novoselac, A. (2020), Experiment Verification of Cooling Load Calculations for Spaces with Non-Uniform Temperature Radiant Surface: ASHRAE 1729-TRP Project (No. 1729- TRP). Austin, TX: University of Texas at Austin.
 
+<br />
 ### Seminars, Invited Talks & Conference Presentations
-**Moftakhari, A.**, Novoselac, A., [Paper Session 17: Experimental Study of Radiant Systems, District Cooling Plants: "Experimental Study on Cooling Loads of Radiant and All-Air Systems"]
-(https://ashraem.confex.com/ashraem/s20/meetingapp.cgi/Session/30156), *ASHRAE Annual Virtual Conference*, May 2020.
+**Moftakhari, A.**, Novoselac, A., [Paper Session 17: Experimental Study of Radiant Systems, District Cooling Plants: "Experimental Study on Cooling Loads of Radiant and All-Air Systems"](https://ashraem.confex.com/ashraem/s20/meetingapp.cgi/Session/30156), *ASHRAE Annual Virtual Conference*, May 2020.
 
-**Moftakhari, A.**, [Seminar 06 — Updates and Lessons Learned from Recent Room Load Calculation Research: "Role of Surface Boundary Condition on the Room Convective and Radiative Loads"]
-(https://ashraem.confex.com/ashraem/w20/meetingapp.cgi/Paper/26883), *ASHRAE Winter conference*, Orlando, FL, January 2020.
+**Moftakhari, A.**, [Seminar 06 — Updates and Lessons Learned from Recent Room Load Calculation Research: "Role of Surface Boundary Condition on the Room Convective and Radiative Loads"](https://ashraem.confex.com/ashraem/w20/meetingapp.cgi/Paper/26883), *ASHRAE Winter conference*, Orlando, FL, January 2020.
 
-**Moftakhari, A.**, [Seminar 26 - Load Calculation Considerations for Radiant Systems: "Difference in Cooling Loads for Radiant and All-Air Systems for Different Load Scenarios"]
-(https://ashraem.confex.com/ashraem/w19/meetingapp.cgi/Paper/25212), *ASHRAE Winter conference*, Atlanta, Georgia, January 2019.  
+**Moftakhari, A.**, [Seminar 26 - Load Calculation Considerations for Radiant Systems: "Difference in Cooling Loads for Radiant and All-Air Systems for Different Load Scenarios"](https://ashraem.confex.com/ashraem/w19/meetingapp.cgi/Paper/25212), *ASHRAE Winter conference*, Atlanta, Georgia, January 2019.  
 
-Presenting On behalf of Novoselac, A., [Seminar 26 - Load Calculation Considerations for Radiant Systems: "What Happens when Radiant Systems are Designed by Methods Developed for All-air Systems?"]
-(https://ashraem.confex.com/ashraem/w19/meetingapp.cgi/Paper/25213), *ASHRAE Winter conference*, Atlanta, Georgia, January 2019.  
+Presenting On behalf of Novoselac, A., [Seminar 26 - Load Calculation Considerations for Radiant Systems: "What Happens when Radiant Systems are Designed by Methods Developed for All-air Systems?"](https://ashraem.confex.com/ashraem/w19/meetingapp.cgi/Paper/25213), *ASHRAE Winter conference*, Atlanta, Georgia, January 2019.  
 
-**Moftakhari, A.**, [Seminar 61: Convective Vs. Radiant Load Calculations: Are They Different?: " Difference in Cooling Loads for Radiant and All-Air Systems for Different Types of Heat Gains and Control (Operative vs. Air) Temperature"]
-(https://ashraem.confex.com/ashraem/s18/meetingapp.cgi/Paper/24620), *ASHRAE Annual conference*, Houston, TX, June 2018.  
+**Moftakhari, A.**, [Seminar 61: Convective Vs. Radiant Load Calculations: Are They Different?: " Difference in Cooling Loads for Radiant and All-Air Systems for Different Types of Heat Gains and Control (Operative vs. Air) Temperature"](https://ashraem.confex.com/ashraem/s18/meetingapp.cgi/Paper/24620), *ASHRAE Annual conference*, Houston, TX, June 2018.  
 
