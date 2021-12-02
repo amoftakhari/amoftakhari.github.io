@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Publications
+title: publications
 permalink: /publications/
 ---
 
@@ -8,7 +8,7 @@ permalink: /publications/
 ## PUBLICATIONS
 #### Peer-Reviewed Journal Publications
 **Moftakhari, A.**, Novoselac, A. (2020). 
-[Improvement in the Operative Temperature Measurement of Radiant Cooling Panels] (https://www.proquest.com/docview/2489355622?pq-origsite=gscholar&fromopenview=true), 
+[Improvement in the Operative Temperature Measurement of Radiant Cooling Panels](https://www.proquest.com/docview/2489355622?pq-origsite=gscholar&fromopenview=true), 
 *ASHRAE Transactions*, Vol. 126 (2), pp. 419-426.
 
 **Moftakhari, A.**, Moftakhari Chaei Ghazvin, A. (2017). 
