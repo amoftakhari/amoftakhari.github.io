@@ -57,7 +57,7 @@ Grid-interactive Efficient District (GED) Energy Systems](https://www.colorado.e
 01.2017 – 10.2018: [UT Thermal Façade Lab Development, Installation and Equipment](https://soa.utexas.edu/resources/thermal-lab) <br />
 
 ## PUBLICATIONS 
-See list of [publications](pub.md) here.
+See list of [Publications](pub.md) here.
 
 
 

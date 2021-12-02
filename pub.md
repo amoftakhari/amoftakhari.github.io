@@ -1,3 +1,9 @@
+---
+layout: page
+title: Publications
+permalink: /Publications/
+---
+
 ### Peer-Reviewed Journal Publications
 **Moftakhari, A.**, Novoselac, A. (2020). 
 [Improvement in the Operative Temperature Measurement of Radiant Cooling Panels](https://www.proquest.com/docview/2489355622?pq-origsite=gscholar&fromopenview=true), 
