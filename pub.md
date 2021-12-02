@@ -1,4 +1,4 @@
-### PUBLICATIONS
+## PUBLICATIONS
 
 #### Peer-Reviewed Journal Publications
 **Moftakhari, A.**, Novoselac, A. (2020). 
