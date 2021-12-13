@@ -67,25 +67,25 @@ algorithm, *The 7th Conference on efficient, clean and Renewable Energy*, Tehran
 
 ### Papers In Prepration/ Under Review
 **Moftakhari, A.**, Bourne, S., Novoselac, A. Cooling Load Comparison of Rooms Conditioned with Radiant Cooling Panels and 
-All-Air HVAC Systems, for *Science and Technology for the Built Environment*.
+All-Air HVAC Systems,  *Science and Technology for the Built Environment*.
 
 **Moftakhari, A.**, Novoselac, A. Parametric Analysis of Cooling Load for Radiant Cooling Systems, 
-for *Building and Environment*.
+ *Building and Environment*.
 
 **Moftakhari, A.**, Novoselac, A. New Convection Correlations for Ceiling Fans in Rooms with Radiant and Air systems, 
-for *Energy and Buildings*.
+ *Energy and Buildings*.
 
-**Moftakhari, A.**, Novoselac, A. New model for cooling load calculation of light radiant cooling panels, for *Applied Energy*. 
+**Moftakhari, A.**, Novoselac, A. New model for cooling load calculation of light radiant cooling panels,  *Applied Energy*. 
 
-**Moftakhari, A.**, Ippei, I., Novoselac, A. On Enhancing Cooling Capacity of Radiant Cooling Systems, for *Building and Environment*.
+**Moftakhari, A.**, Ippei, I., Novoselac, A. On Enhancing Cooling Capacity of Radiant Cooling Systems,  *Building and Environment*.
 
-**Moftakhari, A.**, Novoselac, A. Fundamentals of Cooling Load Calculation for Radiant Systems, for *Energy*.
+**Moftakhari, A.**, Novoselac, A. Fundamentals of Cooling Load Calculation for Radiant Systems, *Energy*.
 
 Barnaby, C., **Moftakhari, A.**, Novoselac, A. Modification of Heat Balance Method for Cooling Load Calculation of Radiant Systems in ASHRAE Load Calculation Toolkit, 
-for *Journal of Building Performance Simulation*.
+ *Journal of Building Performance Simulation*.
 
 Du, J., **Moftakhari, A.**, Novoselac, A. Heat Transfer Dynamics of Rooms with Radiant Floor and Ceiling Cooling Systems, 
-for *Building Simulation*.
+ *Building Simulation*.
 
 
 ### Technical Reports 
