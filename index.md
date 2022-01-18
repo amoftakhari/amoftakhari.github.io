@@ -47,8 +47,6 @@ Smart and Connected Communities<br />
 Grid-interactive Efficient District (GED) Energy Systems](https://www.colorado.edu/lab/sbs/grid-interactive-efficient-district-energy-system) (With LBNL, NREL, CU Boulder, RPI and  Amzur Technologies) <br />
 09.2019 – 03.2021: NSF - [SBIR Phase II: Passive Radiative Composite Material](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1831805&HistoricalAwards=false) (With PC Krause and Associates Inc.)<br />
 10.2020 – 01.2021: Microbial VOC Analysis for Mold Growth from Air Conditioning Ductwork <br />
-
-
 10.2018 – 07.2019: [Enhancements in Cooling Capacity and Control of Hydronic Radiant Systems by 
 Optimizing Panel Geometry (Sanken panels) & Elevating Air Movement (with Ceiling fans)](https://cbe.berkeley.edu/centerline/engineering-leader-sanken-to-collaborate-on-radiant-cooling-technologies/) (With CBE and Sanken Setsubi Kogyo)<br />
 05.2018 - 09.2018: ASHRAE GIA - [Improvement in the Operative Temperature Controller of Radiant Cooling Panels](https://www.ashrae.org/file%20library/technical%20resources/research/ashrae%20rp/rpbyregion-a20.v1.xls) <br />
