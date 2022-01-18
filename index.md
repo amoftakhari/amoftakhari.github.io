@@ -10,7 +10,7 @@ categories:
 	
 	
 ## ARDESHIR MOFTAKHARI
-PhD Student <br />
+PhD Candidate <br />
   <br />
   Center for Energy & Environmental Resources (CEER) <br />
   Department of Civil, Architectural, and Environmental Engineering <br />
