@@ -33,11 +33,11 @@ Building Environmental Control and Sensing Systems <br />
 Ventilation and Indoor Air Quality <br />
 
 ## PROFFESSIONAL APPOINTMENTS
-2022 - 2023:	 Postdoctoral Scholar, Pennsylvania State University<br />  
+2022 - 2023:	 Postdoctoral Scholar, Pennsylvania State University <br /> 
 2017 - 2022: 	 Graduate Research Assistant, University of Texas at Austin <br />
 2013 - 2016:     Graduate Research Assistant, K. N. Toosi University of Technology <br />
 
-## RESEARCH WORK EXPERIENCE
+## RESEARCH PROJECTS
 08.2022- Present: Penn State - [Smart, Sustainable and Resilient (SSR) Home Test Facility](https://sites.psu.edu/sbslab/research/buildings/ssr/) <br />
 10.2020 – Present: DOE - [Optimal Co-Design of Integrated Thermal-Electrical Networks and Control Systems for 
 Grid-interactive Efficient District (GED) Energy Systems](https://www.colorado.edu/lab/sbs/grid-interactive-efficient-district-energy-system) (With LBNL, NREL, CU Boulder, RPI and  Amzur Technologies) <br />
