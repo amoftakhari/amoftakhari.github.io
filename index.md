@@ -13,8 +13,8 @@ categories:
   <br />
 Assistant Professor <br />
 [Department of Mechanical and Aerospace Engineering](https://ceat.okstate.edu/mae/) <br />
-201 General Academic Building <br />
-Oklahoma State University <br /> 
+Oklahoma State University <br />
+201 General Academic Building, <br /> 
 Stillwater, OK 74078 <br />
   <br />
 **Email:** <ardeshir@okstate.edu>
