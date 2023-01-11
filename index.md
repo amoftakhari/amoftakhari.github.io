@@ -19,10 +19,9 @@ Stillwater, OK 74078 <br />
   <br />
 **Email:** <ardeshir@okstate.edu>
 <br/>
-[**Curriculum Vitae**](Ardi_CV.pdf) 
 
 ## EDUCATION
-PhD Civil Engineering, University of Texas at Austin, 2022 <br />
+PhD Civil, Architectural and Environmental Engineering, University of Texas at Austin, 2022 <br />
 MSc Mechanical Engineering, K. N. Toosi University of Technology, Iran, 2016<br />
 BSc Mechanical Engineering, Islamic Azad University, Iran, 2012<br />
 
