@@ -11,12 +11,13 @@ categories:
 	
 ## ARDESHIR MOFTAKHARI, Ph.D.
   <br />
-  Center for Energy & Environmental Resources (CEER) <br />
-  Department of Civil, Architectural, and Environmental Engineering <br />
-  University of Texas at Austin <br />
-  301E E Dean Keeton St c1700, Austin, TX 78712-1076 <br />
+Assistant Professor <br />
+[Department of Mechanical and Aerospace Engineering](https://ceat.okstate.edu/mae/) <br />
+201 General Academic Building <br />
+Oklahoma State University <br /> 
+Stillwater, OK 74078 <br />
   <br />
-**Email:** <ardeshir.moftakhari@utexas.edu>
+**Email:** <ardeshir@okstate.edu>
 <br/>
 [**Curriculum Vitae**](Ardi_CV.pdf) 
 
