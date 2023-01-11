@@ -19,7 +19,9 @@ Stillwater, OK 74078 <br />
   <br />
 **Email:** <ardeshir@okstate.edu>
 <br/>
-**We currently have [open positions] for Ph.D. students for Fall 2023**
+<br/>
+**We currently have [**open positions**](hiringFlyer.pdf) for Ph.D. students for Fall 2023**
+<br/>
 <br/>
 
 ## EDUCATION
@@ -60,11 +62,11 @@ Optimizing Panel Geometry (Sanken panels) & Elevating Air Movement (with Ceiling
 01.2017 – 10.2018: [UT Thermal Façade Laboratory](https://soa.utexas.edu/resources/thermal-lab) <br />
 
 ## PUBLICATIONS 
-See list of [Publications](pub.md) here.
+See list of [Publications](pub.md) here
 
 
 ## AFFILIATIONS
-[Center for Integrated Building Systems (CIBS)](https://ceat.okstate.edu/mae/research/cibs/)
+[Center for Integrated Building Systems (CIBS)](https://ceat.okstate.edu/mae/research/cibs/) <br/>
 [Building & Environmental Thermal Systems](https://hvac.okstate.edu/)
 
 
