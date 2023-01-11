@@ -9,8 +9,7 @@ categories:
 	title="Ardeshir Moftakhari" width="250" style="float: right;" />
 	
 	
-## ARDESHIR MOFTAKHARI
-PhD Candidate <br />
+## ARDESHIR MOFTAKHARI, Ph.D.
   <br />
   Center for Energy & Environmental Resources (CEER) <br />
   Department of Civil, Architectural, and Environmental Engineering <br />
