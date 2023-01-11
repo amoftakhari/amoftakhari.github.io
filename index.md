@@ -19,6 +19,8 @@ Stillwater, OK 74078 <br />
   <br />
 **Email:** <ardeshir@okstate.edu>
 <br/>
+**We currently have [open positions] for Ph.D. students for Fall 2023**
+<br/>
 
 ## EDUCATION
 PhD Civil, Architectural Engineering, University of Texas at Austin, 2022 <br />
@@ -61,8 +63,9 @@ Optimizing Panel Geometry (Sanken panels) & Elevating Air Movement (with Ceiling
 See list of [Publications](pub.md) here.
 
 
-
-
+## AFFILIATIONS
+[Center for Integrated Building Systems (CIBS)](https://ceat.okstate.edu/mae/research/cibs/)
+[Building & Environmental Thermal Systems](https://hvac.okstate.edu/)
 
 
 <br /><br />
