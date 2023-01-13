@@ -68,7 +68,7 @@ See list of [Publications](pub.md) here
 ## AFFILIATIONS
 [**Center for Integrated Building Systems (CIBS)**](https://ceat.okstate.edu/mae/research/cibs/) <br/> 
 
-[**Building & Environmental Thermal Systems**](https://hvac.okstate.edu/)
+[**Building & Environmental Thermal Systems (BETSRG)**](https://hvac.okstate.edu/)
 
 
 <br /><br />
