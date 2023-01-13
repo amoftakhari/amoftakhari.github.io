@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Ardeshir Moftakhari  
+title: Ardeshir Moftakhari   
 categories:
  - home
 ---
