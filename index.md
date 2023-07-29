@@ -55,7 +55,7 @@ Optimizing Panel Geometry (Sanken panels) & Elevating Air Movement (with Ceiling
 08.2011 – 01.2012: Numerical Modeling of HVAC and District Energy Systems Design in Hospitals <br />
 
 ## LABORATORY EXPERIENCE
-08.2022 - Present: [Smart, Sustainable and Resilient (SSR) Home Test Facility](https://sites.psu.edu/sbslab/research/buildings/ssr/) <br />
+08.2022 - 07.2023: [Smart, Sustainable and Resilient (SSR) Home Test Facility](https://sites.psu.edu/sbslab/research/buildings/ssr/) <br />
 10.2020 – 08.2022: [UT Austin Campus Energy Plant, Utilities and Energy Management](https://utilities.utexas.edu/chp/about-carl-j-eckhardt-combined-heating-and-power-complex) <br />
 04.2019 – 07.2019: [Controller Design of a Test bed for Evaluation of Ozone Removal Air Cleaning Devices (ASHRAE 1579-RP)](https://www.researchgate.net/publication/361175226_Evaluating_test_method_of_air_cleaning_devices_for_ozone_removal_ASHRAE_RP-1579) <br /> 
 01.2019 – 01.2021: [UT Roof Testing Laboratory](https://www.caee.utexas.edu/prof/Novoselac/atila_files/Laboratories.html#UTest%20House) <br />
