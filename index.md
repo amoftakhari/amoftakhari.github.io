@@ -43,7 +43,7 @@ Ventilation and Indoor Air Quality <br />
 
 ## RESEARCH PROJECTS
 08.2022- 07.2023: Penn State - [Smart, Sustainable and Resilient (SSR) Home Test Facility](https://sites.psu.edu/sbslab/research/buildings/ssr/) <br />
-10.2020 – Present: DOE - [Optimal Co-Design of Integrated Thermal-Electrical Networks and Control Systems for 
+10.2020 – 07.2023: DOE - [Optimal Co-Design of Integrated Thermal-Electrical Networks and Control Systems for 
 Grid-interactive Efficient District (GED) Energy Systems](https://sites.psu.edu/sbslab/research/city/grid-interactive-efficient-district-energy-system/) (With LBNL, NREL, CU Boulder, RPI and  Amzur Technologies) <br />
 09.2019 – 03.2021: NSF - [SBIR Phase II: Novel Composite Material for Sky Passive Radiant Cooling](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1831805&HistoricalAwards=false) (With PC Krause and Associates Inc.)<br />
 10.2020 – 01.2021: Microbial VOC Analysis for Mold Growth from Air Conditioning Ductwork Using High-End IAQ Sensing Technologies <br />
