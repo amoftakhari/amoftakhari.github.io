@@ -20,7 +20,7 @@ Stillwater, OK 74078 <br />
 **Email:** <ardeshir@okstate.edu>
 <br/>
 <br/>
-**Announcement:** We currently have [**open positions**](hiringFlyer 2024.pdf) for Ph.D. students for Spring/Fall 2024
+**Announcement:** We currently have [**open positions**](hiringFlyer 2024.pdf) for Ph.D. students in Spring/Fall 2024
 <br/>
 <br/>
 
