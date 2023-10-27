@@ -14,13 +14,13 @@ categories:
 Assistant Professor <br />
 [Department of Mechanical and Aerospace Engineering](https://ceat.okstate.edu/mae/) <br />
 Oklahoma State University <br />
-201 General Academic Building, <br /> 
+339 Engineering South, <br /> 
 Stillwater, OK 74078 <br />
   <br />
 **Email:** <ardeshir@okstate.edu>
 <br/>
 <br/>
-**Announcement:** We currently have [**open positions**](hiringFlyer 2024.pdf) for Ph.D. students in Spring/Fall 2024
+**Announcement:** We currently have [**open positions**](hiringFlyer 2024 - Fall.pdf) for Ph.D. students in Fall 2024
 <br/>
 <br/>
 
