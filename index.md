@@ -20,7 +20,7 @@ Stillwater, OK 74078 <br />
 **Email:** <ardeshir@okstate.edu>
 <br/>
 <br/>
-**Announcement:** We currently have [**open positions**](hiringFlyer 2024 - Fall.pdf) for Ph.D. students in Fall 2024
+**Announcement:** We currently have [**open positions**](hiringFlyer Fall 2026.pdf) for Ph.D. students in Fall 2026
 <br/>
 <br/>
 
@@ -32,8 +32,8 @@ BSc Mechanical Engineering, Islamic Azad University, Iran, 2012 <br />
 ## RESEARCH INTERESTS
 Building Energy Analysis<br />
 HVAC System Simulation and Design <br />
-Grid-Interactive District Energy Systems <br />
-Building Environmental Control and Sensing Systems <br />
+Heat Pumps and Refrigeration <br />
+Grid-Interactive Building and District Energy Systems <br />
 Ventilation and Indoor Air Quality <br />
 
 ## PROFFESSIONAL APPOINTMENTS
@@ -42,6 +42,14 @@ Ventilation and Indoor Air Quality <br />
 2013 - 2016:     Graduate Research Assistant, K. N. Toosi University of Technology <br />
 
 ## RESEARCH PROJECTS
+10.01.2025 - 09.31.2028: National Science Foundation # 2446781: Collaborative Research: Novel Fault Detection and Diagnostics Approach for Robust Design and Reliable Operation of Critical Cooling Infrastructure in Data Centers.  <br />
+10.01.2025 - 09.31.2026: National Science Foundation # 2527318: CIVIC-FA Track A Recharge-OK: Enhancing Oklahoma Community Energy Resilience and Disaster Preparedness Through Electric School Bus Integration into Local Grids.  <br />
+09.01.2025 - 08.31.2027: ASHRAE RP-1566: Equations to estimate evaporation rates from heated water pools in indoor recreational aquatic facilities.  
+09.01.2025 - 8.31.2026: ASHRAE RP-1970: Study of Grouts for Ground Heat Exchangers.  <br />
+01.01.2024 - 12.31.2026: OSU CIBS: Physics Based Models for Performance Analysis of Refrigerant-to-Water Heat Exchangers in Heat Pumps. <br />
+01.01.2025 - 12.31.2026: OSU CIBS: Compact Thermal Energy Storage for Heat Pump Applications. <br />
+01.01.2026 - 12.31.2026: OSU CIBS: Performance Models and Sizing Procedure for Suction-line Accumulators in Heat Pumps. <br />
+10.01.2024 - 03.31.2025: National Science Foundation # 2431225: SCC-CIVIC-PG Track A: Enhancing Oklahoma Community Climate Resilience Through Electric School Bus Integration into Local Energy Grids. <br />
 08.2022- 07.2023: Penn State - [Smart, Sustainable and Resilient (SSR) Home Test Facility](https://sites.psu.edu/sbslab/research/buildings/ssr/) <br />
 10.2020 – 07.2023: DOE - [Optimal Co-Design of Integrated Thermal-Electrical Networks and Control Systems for 
 Grid-interactive Efficient District (GED) Energy Systems](https://sites.psu.edu/sbslab/research/city/grid-interactive-efficient-district-energy-system/) (With LBNL, NREL, CU Boulder, RPI and  Amzur Technologies) <br />
