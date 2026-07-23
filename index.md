@@ -20,7 +20,7 @@ Stillwater, OK 74078 <br />
 **Email:** <ardeshir@okstate.edu>
 <br/>
 <br/>
-**Announcement:** We currently have [**open positions**](hiringFlyer Fall 2026.pdf) for Ph.D. students in Fall 2026
+**Announcement:** We currently have [**open positions**](hiringFlyer - Spring 2027.pdf) for Ph.D. students in Spring 2027.
 <br/>
 <br/>
 
@@ -37,11 +37,17 @@ Grid-Interactive Building and District Energy Systems <br />
 Ventilation and Indoor Air Quality <br />
 
 ## PROFFESSIONAL APPOINTMENTS
+2023 - Present:  Assistant Professor, Oklahoma State University <br />
 2022 - 2023:	 Postdoctoral Scholar, Pennsylvania State University <br /> 
 2017 - 2022: 	 Graduate Research Assistant, University of Texas at Austin <br />
 2013 - 2016:     Graduate Research Assistant, K. N. Toosi University of Technology <br />
 
 ## RESEARCH PROJECTS
+06.01.2026 - 05.31.2027: AAON: Improving Heat Pump Reliability and Thermal Comfort through PCM-Enhanced Defrost. <br />
+08.19.2026 - Present: OSU: Integrated Modeling and Digital Twin Platform for Advanced Data Center Thermal Management. <br />
+01.01.2025 - Present: OSU: Two-Phase Refrigerant Cooling Technology for High-Power-Density Data Center Thermal Management. <br />
+01.01.2025 - Present: OSU: Design and Experimental Validation Procedure for Ultra-Low-Charge Heat Pumps Using A3 Flammable Refrigerants. <br />
+11.01.2025 - 05.31.2026: NASA EPSCoR: Development of a Thermal Control System Architecture for Space Conditioning of Lunar Surface Habitats. <br />
 10.01.2025 - 09.31.2028: National Science Foundation # 2446781: Collaborative Research: Novel Fault Detection and Diagnostics Approach for Robust Design and Reliable Operation of Critical Cooling Infrastructure in Data Centers.  <br />
 10.01.2025 - 09.31.2026: National Science Foundation # 2527318: CIVIC-FA Track A Recharge-OK: Enhancing Oklahoma Community Energy Resilience and Disaster Preparedness Through Electric School Bus Integration into Local Grids.  <br />
 09.01.2025 - 08.31.2027: ASHRAE RP-1566: Equations to estimate evaporation rates from heated water pools in indoor recreational aquatic facilities.  
