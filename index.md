@@ -5,7 +5,7 @@ categories:
  - home
 ---
 
-<img src="{{ site.baseurl }}/images/profile.jpg" alt="profile"
+<img src="{{ site.baseurl }}/images/Screenshot 2026-01-27 151415.jpg" alt="profile"
 	title="Ardeshir Moftakhari" width="250" style="float: right;" />
 	
 	
